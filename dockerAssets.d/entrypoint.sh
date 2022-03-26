@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 # export PATH=$PATH:/root/bin
 HOME=/home/kubectl
